@@ -26,3 +26,4 @@ for index, question in enumerate(data):
 
 print(data)
 print(score, "/", len(data))
+
